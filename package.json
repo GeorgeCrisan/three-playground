@@ -1,10 +1,10 @@
 {
-  "dependencies": {
-    "three": "^0.147.0"
-  },
   "name": "three-playground",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "NONE!!!!",
   "author": "GeorgeCrisan <georgerdp@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "three": "^0.147.0"
+  }
 }
